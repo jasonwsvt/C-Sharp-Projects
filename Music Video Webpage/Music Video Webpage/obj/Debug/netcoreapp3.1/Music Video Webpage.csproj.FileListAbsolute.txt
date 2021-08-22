@@ -1,0 +1,38 @@
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\bin\Debug\netcoreapp3.1\Music Video Webpage.exe
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\bin\Debug\netcoreapp3.1\Music Video Webpage.deps.json
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\bin\Debug\netcoreapp3.1\Music Video Webpage.runtimeconfig.json
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\bin\Debug\netcoreapp3.1\Music Video Webpage.runtimeconfig.dev.json
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\bin\Debug\netcoreapp3.1\Music Video Webpage.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\bin\Debug\netcoreapp3.1\Music Video Webpage.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\bin\Debug\netcoreapp3.1\Music Video Webpage.Views.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\bin\Debug\netcoreapp3.1\Music Video Webpage.Views.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.csproj.AssemblyReference.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.AssemblyInfo.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.RazorAssemblyInfo.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.RazorAssemblyInfo.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\staticwebassets\Music Video Webpage.StaticWebAssets.Manifest.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\staticwebassets\Music Video Webpage.StaticWebAssets.xml
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\scopedcss\bundle\Music Video Webpage.styles.css
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.TagHelpers.input.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.TagHelpers.output.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.RazorCoreGenerate.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.RazorTargetAssemblyInfo.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.RazorTargetAssemblyInfo.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.Views.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.genruntimeconfig.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Music Video Webpage\Music Video Webpage\obj\Debug\netcoreapp3.1\Music Video Webpage.csproj.CopyComplete
