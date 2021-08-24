@@ -39,7 +39,7 @@ namespace Anonymous_Income_Comparison_Program
 
             //Assigns the product of the two variables to the integer variable.
             //The type change can be explicit, however.
-            int p2salary = (int)p2rate * (int)p2hours * (byte)52;
+            int p2salary = (int)p2rate * (int)p2hours * (int)52;
 
             //Prints a text string consisting of a string concatenated to a variable to the console.
             Console.WriteLine("Annual salary of Person 1: " + (p1salary));
