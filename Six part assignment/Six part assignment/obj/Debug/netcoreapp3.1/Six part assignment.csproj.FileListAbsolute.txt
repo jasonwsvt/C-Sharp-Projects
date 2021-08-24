@@ -1,0 +1,14 @@
+C:\Users\jason\Documents\GitHub\C# Projects\Six part assignment\Six part assignment\bin\Debug\netcoreapp3.1\Six part assignment.exe
+C:\Users\jason\Documents\GitHub\C# Projects\Six part assignment\Six part assignment\bin\Debug\netcoreapp3.1\Six part assignment.deps.json
+C:\Users\jason\Documents\GitHub\C# Projects\Six part assignment\Six part assignment\bin\Debug\netcoreapp3.1\Six part assignment.runtimeconfig.json
+C:\Users\jason\Documents\GitHub\C# Projects\Six part assignment\Six part assignment\bin\Debug\netcoreapp3.1\Six part assignment.runtimeconfig.dev.json
+C:\Users\jason\Documents\GitHub\C# Projects\Six part assignment\Six part assignment\bin\Debug\netcoreapp3.1\Six part assignment.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Six part assignment\Six part assignment\bin\Debug\netcoreapp3.1\Six part assignment.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Six part assignment\Six part assignment\obj\Debug\netcoreapp3.1\Six part assignment.csproj.AssemblyReference.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Six part assignment\Six part assignment\obj\Debug\netcoreapp3.1\Six part assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\Documents\GitHub\C# Projects\Six part assignment\Six part assignment\obj\Debug\netcoreapp3.1\Six part assignment.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Six part assignment\Six part assignment\obj\Debug\netcoreapp3.1\Six part assignment.AssemblyInfo.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Six part assignment\Six part assignment\obj\Debug\netcoreapp3.1\Six part assignment.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Six part assignment\Six part assignment\obj\Debug\netcoreapp3.1\Six part assignment.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Six part assignment\Six part assignment\obj\Debug\netcoreapp3.1\Six part assignment.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Six part assignment\Six part assignment\obj\Debug\netcoreapp3.1\Six part assignment.genruntimeconfig.cache
