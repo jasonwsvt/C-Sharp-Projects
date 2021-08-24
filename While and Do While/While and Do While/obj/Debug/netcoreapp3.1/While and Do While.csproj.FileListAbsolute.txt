@@ -1,0 +1,14 @@
+C:\Users\jason\Documents\GitHub\C# Projects\While and Do While\While and Do While\bin\Debug\netcoreapp3.1\While and Do While.exe
+C:\Users\jason\Documents\GitHub\C# Projects\While and Do While\While and Do While\bin\Debug\netcoreapp3.1\While and Do While.deps.json
+C:\Users\jason\Documents\GitHub\C# Projects\While and Do While\While and Do While\bin\Debug\netcoreapp3.1\While and Do While.runtimeconfig.json
+C:\Users\jason\Documents\GitHub\C# Projects\While and Do While\While and Do While\bin\Debug\netcoreapp3.1\While and Do While.runtimeconfig.dev.json
+C:\Users\jason\Documents\GitHub\C# Projects\While and Do While\While and Do While\bin\Debug\netcoreapp3.1\While and Do While.dll
+C:\Users\jason\Documents\GitHub\C# Projects\While and Do While\While and Do While\bin\Debug\netcoreapp3.1\While and Do While.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\While and Do While\While and Do While\obj\Debug\netcoreapp3.1\While and Do While.csproj.AssemblyReference.cache
+C:\Users\jason\Documents\GitHub\C# Projects\While and Do While\While and Do While\obj\Debug\netcoreapp3.1\While and Do While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\Documents\GitHub\C# Projects\While and Do While\While and Do While\obj\Debug\netcoreapp3.1\While and Do While.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\While and Do While\While and Do While\obj\Debug\netcoreapp3.1\While and Do While.AssemblyInfo.cs
+C:\Users\jason\Documents\GitHub\C# Projects\While and Do While\While and Do While\obj\Debug\netcoreapp3.1\While and Do While.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\While and Do While\While and Do While\obj\Debug\netcoreapp3.1\While and Do While.dll
+C:\Users\jason\Documents\GitHub\C# Projects\While and Do While\While and Do While\obj\Debug\netcoreapp3.1\While and Do While.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\While and Do While\While and Do While\obj\Debug\netcoreapp3.1\While and Do While.genruntimeconfig.cache
