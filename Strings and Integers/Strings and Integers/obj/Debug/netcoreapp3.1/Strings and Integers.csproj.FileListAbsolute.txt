@@ -1,0 +1,14 @@
+C:\Users\jason\Documents\GitHub\C# Projects\Strings and Integers\Strings and Integers\bin\Debug\netcoreapp3.1\Strings and Integers.exe
+C:\Users\jason\Documents\GitHub\C# Projects\Strings and Integers\Strings and Integers\bin\Debug\netcoreapp3.1\Strings and Integers.deps.json
+C:\Users\jason\Documents\GitHub\C# Projects\Strings and Integers\Strings and Integers\bin\Debug\netcoreapp3.1\Strings and Integers.runtimeconfig.json
+C:\Users\jason\Documents\GitHub\C# Projects\Strings and Integers\Strings and Integers\bin\Debug\netcoreapp3.1\Strings and Integers.runtimeconfig.dev.json
+C:\Users\jason\Documents\GitHub\C# Projects\Strings and Integers\Strings and Integers\bin\Debug\netcoreapp3.1\Strings and Integers.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Strings and Integers\Strings and Integers\bin\Debug\netcoreapp3.1\Strings and Integers.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.csproj.AssemblyReference.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\Documents\GitHub\C# Projects\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.AssemblyInfo.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Strings and Integers\Strings and Integers\obj\Debug\netcoreapp3.1\Strings and Integers.genruntimeconfig.cache
