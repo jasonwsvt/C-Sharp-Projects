@@ -1,0 +1,14 @@
+C:\Users\jason\Documents\GitHub\C# Projects\Calling Methods\Calling Methods\bin\Debug\netcoreapp3.1\Calling Methods.exe
+C:\Users\jason\Documents\GitHub\C# Projects\Calling Methods\Calling Methods\bin\Debug\netcoreapp3.1\Calling Methods.deps.json
+C:\Users\jason\Documents\GitHub\C# Projects\Calling Methods\Calling Methods\bin\Debug\netcoreapp3.1\Calling Methods.runtimeconfig.json
+C:\Users\jason\Documents\GitHub\C# Projects\Calling Methods\Calling Methods\bin\Debug\netcoreapp3.1\Calling Methods.runtimeconfig.dev.json
+C:\Users\jason\Documents\GitHub\C# Projects\Calling Methods\Calling Methods\bin\Debug\netcoreapp3.1\Calling Methods.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Calling Methods\Calling Methods\bin\Debug\netcoreapp3.1\Calling Methods.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.csproj.AssemblyReference.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\Documents\GitHub\C# Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.AssemblyInfo.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Calling Methods\Calling Methods\obj\Debug\netcoreapp3.1\Calling Methods.genruntimeconfig.cache
