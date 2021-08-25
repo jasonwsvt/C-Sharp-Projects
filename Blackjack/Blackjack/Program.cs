@@ -6,9 +6,9 @@ namespace Blackjack
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            Deck deck = Shuffle(new Deck());
+            Deck deck = Shuffle(new Deck(), 3);
 
             foreach (Card card in deck.Cards)
             {
@@ -16,19 +16,23 @@ namespace Blackjack
             }
         }
 
-        public static Deck Shuffle(Deck deck)
+        public static Deck Shuffle(Deck deck, int times = 1)
         {
-            List<Card> tempList = new List<Card>();
             Random random = new Random();
 
-            while(deck.Cards.Count > 0)
+            for (int i = 0; i < times; i++)
             {
-                int randomIndex = random.Next(0, deck.Cards.Count);
-                tempList.Add(deck.Cards[randomIndex]);
-                deck.Cards.RemoveAt(randomIndex);
+                List<Card> tempList = new List<Card>();
+
+                while (deck.Cards.Count > 0)
+                {
+                    int randomIndex = random.Next(0, deck.Cards.Count);
+                    tempList.Add(deck.Cards[randomIndex]);
+                    deck.Cards.RemoveAt(randomIndex);
+                }
+                deck.Cards = tempList;
             }
-            deck.Cards = tempList;
             return deck;
-        } 
+        }
     }
 }
