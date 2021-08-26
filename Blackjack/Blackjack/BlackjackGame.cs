@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Blackjack
 {
-    class BlackjackGame : Game
+    class BlackjackGame : Game, IWalkAway
     {
         public override void Play()
         {
@@ -15,6 +15,10 @@ namespace Blackjack
         {
             Console.WriteLine("Blackjack players:");
             base.ListPlayers();
+        }
+        public void WalkAway(Player player)
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\jason\Documents\GitHub\C# Projects\Interface Assignment\Interface Assignment\bin\Debug\netcoreapp3.1\Interface Assignment.exe
+C:\Users\jason\Documents\GitHub\C# Projects\Interface Assignment\Interface Assignment\bin\Debug\netcoreapp3.1\Interface Assignment.deps.json
+C:\Users\jason\Documents\GitHub\C# Projects\Interface Assignment\Interface Assignment\bin\Debug\netcoreapp3.1\Interface Assignment.runtimeconfig.json
+C:\Users\jason\Documents\GitHub\C# Projects\Interface Assignment\Interface Assignment\bin\Debug\netcoreapp3.1\Interface Assignment.runtimeconfig.dev.json
+C:\Users\jason\Documents\GitHub\C# Projects\Interface Assignment\Interface Assignment\bin\Debug\netcoreapp3.1\Interface Assignment.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Interface Assignment\Interface Assignment\bin\Debug\netcoreapp3.1\Interface Assignment.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Interface Assignment\Interface Assignment\obj\Debug\netcoreapp3.1\Interface Assignment.csproj.AssemblyReference.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Interface Assignment\Interface Assignment\obj\Debug\netcoreapp3.1\Interface Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\Documents\GitHub\C# Projects\Interface Assignment\Interface Assignment\obj\Debug\netcoreapp3.1\Interface Assignment.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Interface Assignment\Interface Assignment\obj\Debug\netcoreapp3.1\Interface Assignment.AssemblyInfo.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Interface Assignment\Interface Assignment\obj\Debug\netcoreapp3.1\Interface Assignment.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Interface Assignment\Interface Assignment\obj\Debug\netcoreapp3.1\Interface Assignment.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Interface Assignment\Interface Assignment\obj\Debug\netcoreapp3.1\Interface Assignment.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Interface Assignment\Interface Assignment\obj\Debug\netcoreapp3.1\Interface Assignment.genruntimeconfig.cache
