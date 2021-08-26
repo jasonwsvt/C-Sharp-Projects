@@ -8,6 +8,8 @@ namespace Interface_Assignment
     //Have your Employee class from the previous drill inherit that interface and implement the Quit() method in any way you choose.
     class Employee : Person, IQuittable
     {
+        public int Id;
+
         //Implement the SayName() method inside of the Employee class.
         public override void SayName()
         {
@@ -22,13 +24,13 @@ namespace Interface_Assignment
         //Overload the “==” operator so it checks if two Employee objects are equal by comparing their Id property.
         public static bool operator ==(Employee one, Employee two)
         {
-            return (one.FirstName == two.FirstName && one.LastName == two.LastName);
+            return (one.Id == two.Id);
         }
 
         //Added below method as per Compiler Error CS0216
         public static bool operator !=(Employee one, Employee two)
         {
-            return (one.FirstName != two.FirstName || one.LastName != two.LastName);
+            return (one.Id != two.Id);
         }
 
         //Added both of the methods below as per Compiler Warning (level 3) CS0660
