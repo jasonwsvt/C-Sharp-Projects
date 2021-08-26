@@ -13,7 +13,8 @@ namespace Method_Class
             vm.VM(4, 5);
 
             //Call the same method with named parameters.
-            vm.VM(two: 5, one: 4);
+            vm.VM(two: 5, one: 4
+                );
         }
     }
 }
