@@ -6,9 +6,15 @@ namespace Blackjack
 {
     class BlackjackGame : Game
     {
-        public void Play()
+        public override void Play()
         {
-            throw new NotImplementedException;
+            throw new NotImplementedException();
+        }
+
+        public override void ListPlayers()
+        {
+            Console.WriteLine("Blackjack players:");
+            base.ListPlayers();
         }
     }
 }

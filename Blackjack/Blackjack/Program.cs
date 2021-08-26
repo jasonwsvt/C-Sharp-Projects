@@ -14,6 +14,7 @@ namespace Blackjack
                 Name = "Blackjack",
                 Dealer = "Computer"
             };
+            game.ListPlayers();
 
             Deck deck = new Deck();
             deck.Shuffle(3);
