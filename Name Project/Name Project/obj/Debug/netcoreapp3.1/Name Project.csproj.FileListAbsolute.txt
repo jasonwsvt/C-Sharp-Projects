@@ -1,0 +1,13 @@
+C:\Users\jason\Documents\GitHub\C# Projects\Name Project\Name Project\bin\Debug\netcoreapp3.1\Name Project.exe
+C:\Users\jason\Documents\GitHub\C# Projects\Name Project\Name Project\bin\Debug\netcoreapp3.1\Name Project.deps.json
+C:\Users\jason\Documents\GitHub\C# Projects\Name Project\Name Project\bin\Debug\netcoreapp3.1\Name Project.runtimeconfig.json
+C:\Users\jason\Documents\GitHub\C# Projects\Name Project\Name Project\bin\Debug\netcoreapp3.1\Name Project.runtimeconfig.dev.json
+C:\Users\jason\Documents\GitHub\C# Projects\Name Project\Name Project\bin\Debug\netcoreapp3.1\Name Project.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Name Project\Name Project\bin\Debug\netcoreapp3.1\Name Project.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Name Project\Name Project\obj\Debug\netcoreapp3.1\Name Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\Documents\GitHub\C# Projects\Name Project\Name Project\obj\Debug\netcoreapp3.1\Name Project.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Name Project\Name Project\obj\Debug\netcoreapp3.1\Name Project.AssemblyInfo.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Name Project\Name Project\obj\Debug\netcoreapp3.1\Name Project.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Name Project\Name Project\obj\Debug\netcoreapp3.1\Name Project.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Name Project\Name Project\obj\Debug\netcoreapp3.1\Name Project.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Name Project\Name Project\obj\Debug\netcoreapp3.1\Name Project.genruntimeconfig.cache
