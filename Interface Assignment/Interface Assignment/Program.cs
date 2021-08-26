@@ -7,10 +7,10 @@ namespace Interface_Assignment
         static void Main()
         {
             //Inside the Main() method, instantiate an Employee object with firstName “Sample” and lastName “Student”.
-            Employee sample = new Employee { FirstName = "Sample", LastName = "Student " };
+            IQuittable sample = new Employee { FirstName = "Sample", LastName = "Student " };
 
             //Call the SayName() method on the object.
-            sample.SayName();
+            //sample.SayName();
 
             //Call the IQuittable.Quit method from the employee.
             sample.Quit();
