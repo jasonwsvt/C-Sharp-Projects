@@ -1,0 +1,14 @@
+C:\Users\jason\Documents\GitHub\C# Projects\Class Method 2\Class Method 2\obj\Debug\netcoreapp3.1\Class Method 2.csproj.AssemblyReference.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Class Method 2\Class Method 2\obj\Debug\netcoreapp3.1\Class Method 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\Documents\GitHub\C# Projects\Class Method 2\Class Method 2\obj\Debug\netcoreapp3.1\Class Method 2.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Class Method 2\Class Method 2\obj\Debug\netcoreapp3.1\Class Method 2.AssemblyInfo.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Class Method 2\Class Method 2\obj\Debug\netcoreapp3.1\Class Method 2.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Class Method 2\Class Method 2\bin\Debug\netcoreapp3.1\Class Method 2.exe
+C:\Users\jason\Documents\GitHub\C# Projects\Class Method 2\Class Method 2\bin\Debug\netcoreapp3.1\Class Method 2.deps.json
+C:\Users\jason\Documents\GitHub\C# Projects\Class Method 2\Class Method 2\bin\Debug\netcoreapp3.1\Class Method 2.runtimeconfig.json
+C:\Users\jason\Documents\GitHub\C# Projects\Class Method 2\Class Method 2\bin\Debug\netcoreapp3.1\Class Method 2.runtimeconfig.dev.json
+C:\Users\jason\Documents\GitHub\C# Projects\Class Method 2\Class Method 2\bin\Debug\netcoreapp3.1\Class Method 2.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Class Method 2\Class Method 2\bin\Debug\netcoreapp3.1\Class Method 2.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Class Method 2\Class Method 2\obj\Debug\netcoreapp3.1\Class Method 2.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Class Method 2\Class Method 2\obj\Debug\netcoreapp3.1\Class Method 2.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Class Method 2\Class Method 2\obj\Debug\netcoreapp3.1\Class Method 2.genruntimeconfig.cache
