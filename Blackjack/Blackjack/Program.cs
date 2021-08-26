@@ -8,13 +8,24 @@ namespace Blackjack
     {
         static void Main()
         {
-            BlackjackGame game = new BlackjackGame
+            //            BlackjackGame game = new BlackjackGame
+            //            {
+            //                Players = new List<Player>() { "One", "Two", "Three" },
+            //                Name = "Blackjack",
+            //                Dealer = "Computer"
+            //            };
+            //           game.ListPlayers();
+
+            Game game = new BlackjackGame
             {
-                Players = new List<string>() { "One", "Two", "Three" },
-                Name = "Blackjack",
-                Dealer = "Computer"
+                Players = new List<Player>()
             };
-            game.ListPlayers();
+            Player player = new Player
+            {
+                Name = "Computer 1"
+            };
+            game += player;
+            game -= player;
 
             Deck deck = new Deck();
             deck.Shuffle(3);
@@ -23,6 +34,7 @@ namespace Blackjack
             {
                 Console.WriteLine(card.Face + " of " + card.Suit);
             }
+            Console.WriteLine(deck.Cards.Count);
         }
     }
 }

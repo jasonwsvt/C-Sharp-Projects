@@ -13,7 +13,7 @@ namespace Interface_Assignment
         {
             Console.WriteLine("Employee: " + FirstName + " " + LastName);
         }
-        //Use polymorphism to create an object of type IQuittable and call the Quit() method on it.
+        //Use polymorphism to create an object of type IQuittable.
         public void Quit()
         {
             Environment.Exit(0);

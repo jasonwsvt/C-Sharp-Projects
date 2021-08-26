@@ -11,6 +11,9 @@ namespace Interface_Assignment
 
             //Call the SayName() method on the object.
             sample.SayName();
+
+            //Call the IQuittable.Quit method from the employee.
+            sample.Quit();
         }
     }
 }
