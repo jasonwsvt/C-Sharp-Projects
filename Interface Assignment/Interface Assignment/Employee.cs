@@ -18,5 +18,29 @@ namespace Interface_Assignment
         {
             Environment.Exit(0);
         }
+
+        //Overload the “==” operator so it checks if two Employee objects are equal by comparing their Id property.
+        public static bool operator ==(Employee one, Employee two)
+        {
+            return (one.FirstName == two.FirstName && one.LastName == two.LastName);
+        }
+
+        //Added below method as per Compiler Error CS0216
+        public static bool operator !=(Employee one, Employee two)
+        {
+            return (one.FirstName != two.FirstName || one.LastName != two.LastName);
+        }
+
+        //Added both of the methods below as per Compiler Warning (level 3) CS0660
+        public override bool Equals(object obj)
+        {
+            return base.Equals(obj);
+        }
+
+        //Added below method as per Compiler Warning (level 3) CS0659 and CS0661
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
     }
 }
