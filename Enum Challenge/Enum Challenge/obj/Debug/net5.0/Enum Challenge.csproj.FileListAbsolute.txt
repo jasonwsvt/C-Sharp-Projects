@@ -1,0 +1,16 @@
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\bin\Debug\net5.0\Enum Challenge.exe
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\bin\Debug\net5.0\Enum Challenge.deps.json
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\bin\Debug\net5.0\Enum Challenge.runtimeconfig.json
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\bin\Debug\net5.0\Enum Challenge.runtimeconfig.dev.json
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\bin\Debug\net5.0\Enum Challenge.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\bin\Debug\net5.0\ref\Enum Challenge.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\bin\Debug\net5.0\Enum Challenge.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\obj\Debug\net5.0\Enum Challenge.csproj.AssemblyReference.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\obj\Debug\net5.0\Enum Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\obj\Debug\net5.0\Enum Challenge.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\obj\Debug\net5.0\Enum Challenge.AssemblyInfo.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\obj\Debug\net5.0\Enum Challenge.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\obj\Debug\net5.0\Enum Challenge.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\obj\Debug\net5.0\ref\Enum Challenge.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\obj\Debug\net5.0\Enum Challenge.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Enum Challenge\Enum Challenge\obj\Debug\net5.0\Enum Challenge.genruntimeconfig.cache
