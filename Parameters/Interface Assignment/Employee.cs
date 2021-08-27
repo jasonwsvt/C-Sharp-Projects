@@ -8,7 +8,7 @@ namespace Parameters
     class Employee<T> : Person, IQuittable
     {
         public int Id;
-        public List<T> Things;
+        public List<T> Things = new List<T>();
 
         //Implement the SayName() method inside of the Employee class.
         public override void SayName()
