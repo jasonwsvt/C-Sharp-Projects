@@ -6,17 +6,24 @@ namespace Blackjack
 {
     public class Deck
     {
-        public Deck()
+        public Deck(int shuffle=0)
         {
             Cards = new List<Card>();
-            foreach (string suit in new string[] { "Hearts", "Diamonds", "Spades", "Clubs"})
+
+            foreach (int face in Enum.GetValues(typeof(Face)))
             {
-                foreach (string face in new string[] { "Ace", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Jack", "Queen", "King" })
+                foreach (int suit in Enum.GetValues(typeof(Suit)))
                 {
-                    Cards.Add(new Card(suit, face));
+                    Card card = new Card
+                    {
+                        Face = (Face)face,
+                        Suit = (Suit)suit
+                    };
+                    Cards.Add(card);
                 }
             }
 
+            if (shuffle > 0) { Shuffle(shuffle); }
         }
         public List<Card> Cards { get; set; }
 
