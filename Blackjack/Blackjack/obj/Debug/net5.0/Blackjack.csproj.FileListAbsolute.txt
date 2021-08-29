@@ -1,0 +1,16 @@
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\bin\Debug\net5.0\Blackjack.exe
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\bin\Debug\net5.0\Blackjack.deps.json
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\bin\Debug\net5.0\Blackjack.runtimeconfig.json
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\bin\Debug\net5.0\Blackjack.runtimeconfig.dev.json
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\bin\Debug\net5.0\Blackjack.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\bin\Debug\net5.0\ref\Blackjack.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\bin\Debug\net5.0\Blackjack.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\obj\Debug\net5.0\Blackjack.csproj.AssemblyReference.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\obj\Debug\net5.0\Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\obj\Debug\net5.0\Blackjack.AssemblyInfoInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\obj\Debug\net5.0\Blackjack.AssemblyInfo.cs
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\obj\Debug\net5.0\Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\obj\Debug\net5.0\Blackjack.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\obj\Debug\net5.0\ref\Blackjack.dll
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\obj\Debug\net5.0\Blackjack.pdb
+C:\Users\jason\Documents\GitHub\C# Projects\Blackjack\Blackjack\obj\Debug\net5.0\Blackjack.genruntimeconfig.cache

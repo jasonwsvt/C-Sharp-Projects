@@ -14,7 +14,7 @@ namespace Blackjack
             {
                 foreach (int suit in Enum.GetValues(typeof(Suit)))
                 {
-                    Card card = new Card
+                    Card card = new()
                     {
                         Face = (Face)face,
                         Suit = (Suit)suit
@@ -29,11 +29,11 @@ namespace Blackjack
 
         public void Shuffle(int times = 1)
         {
-            Random random = new Random();
+            Random random = new();
 
             for (int i = 0; i < times; i++)
             {
-                List<Card> tempList = new List<Card>();
+                List<Card> tempList = new();
 
                 while (Cards.Count > 0)
                 {
