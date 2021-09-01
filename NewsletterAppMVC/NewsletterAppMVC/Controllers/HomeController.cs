@@ -1,4 +1,6 @@
-﻿using System;
+﻿using NewsletterAppMVC.Models;
+using NewsletterAppMVC.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
@@ -24,40 +26,20 @@ namespace NewsletterAppMVC.Controllers
 			}
             else
 			{
-                string connectionString = @"Data Source=DESKTOP-4AS4QR0\SQLEXPRESS;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
-
-                string queryString = @"insert into SignUps (FirstName, LastName, EmailAddress) values (@FirstName, @LastName, @EmailAddress)";
-
-                using (SqlConnection connection = new SqlConnection(connectionString))
+				using (var db = new NewsletterEntities())
 				{
-                    SqlCommand command = new SqlCommand(queryString, connection);
-                    command.Parameters.Add("@FirstName", SqlDbType.VarChar);
-                    command.Parameters.Add("@LastName", SqlDbType.VarChar);
-                    command.Parameters.Add("@EmailAddress", SqlDbType.VarChar);
-                    command.Parameters["@FirstName"].Value = firstName;
-                    command.Parameters["@LastName"].Value = lastName;
-                    command.Parameters["@EmailAddress"].Value = emailAddress;
+					var signup = new SignUp
+					{
+						FirstName = firstName,
+						LastName = lastName,
+						EmailAddress = emailAddress
+					};
 
-                    connection.Open();
-                    command.ExecuteNonQuery();
-                    connection.Close();
-                }
-                return View("Success");
+					db.SignUps.Add(signup);
+					db.SaveChanges();
+				}
+				return View("Success");
 			}
 		}
-
-        public ActionResult About()
-        {
-            ViewBag.Message = "Your application description page.";
-
-            return View();
-        }
-
-        public ActionResult Contact()
-        {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
-        }
     }
 }
