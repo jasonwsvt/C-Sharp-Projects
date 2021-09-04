@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jason\\Documents\\GitHub\\C# Projects\\Date Time\\Date Time\\Date Time.csproj",
-      "projectName": "Date Time",
-      "projectPath": "C:\\Users\\jason\\Documents\\GitHub\\C# Projects\\Date Time\\Date Time\\Date Time.csproj",
+      "projectUniqueName": "C:\\Users\\jason\\Documents\\GitHub\\C# Projects\\Scores\\Scores\\Scores.csproj",
+      "projectName": "Scores",
+      "projectPath": "C:\\Users\\jason\\Documents\\GitHub\\C# Projects\\Scores\\Scores\\Scores.csproj",
       "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jason\\Documents\\GitHub\\C# Projects\\Date Time\\Date Time\\obj\\",
+      "outputPath": "C:\\Users\\jason\\Documents\\GitHub\\C# Projects\\Scores\\Scores\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
