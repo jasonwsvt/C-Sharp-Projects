@@ -31,9 +31,6 @@ namespace While_and_Do_While
             //Guess the number with a do while loop
             do
             {
-                //Resize the array to be one larger than the current size.
-                Array.Resize(ref guesses, guesses.Length + 1);
-
                 //A do while loop to determine a number that hasn't yet been guessed.
                 do
                 {
@@ -41,11 +38,14 @@ namespace While_and_Do_While
                 }
                 while (guesses.Contains(guess));
 
+                //Resize the array to be one larger than the current size.
+                Array.Resize(ref guesses, guesses.Length + 1);
+
                 //Assign the new guess to the end of the array.
                 guesses[^1] = guess;
 
                 //Ask if the guess is the correct number.
-                Console.WriteLine("Is " + guess + " the correct number?");
+                Console.WriteLine("\nIs " + guess + " the correct number?");
 
                 //If the guessed number is not the secret number
                 if (guess != number)
